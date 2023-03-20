@@ -1,1 +1,1 @@
-# AI_basic
+# AI_STUDY
